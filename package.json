@@ -1,6 +1,6 @@
 {
   "name": "bhaarat",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,12 @@
   "keywords": [
     "india",
     "bharat",
-    "rajya"
+    "rajya",
+    "भारत",
+    "राज्य",
+    "संघ राज्य",
+    "भाषा",
+    "राजभाषा"
   ],
   "author": "Akash Chauhan",
   "license": "ISC",

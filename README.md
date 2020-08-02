@@ -7,6 +7,6 @@
 
 ### var rajya = bhaarat.getAllRajya()
 ### var sanghRajya = bhaarat.getAllSanghRajyaChhetra()
-
-### console.log(rajya)
-### console.log(sanghRajya)
+### var languages = bhaarat.getOfficialLanguages()
+### var rajbhasha = bhaarat.getRajbhasha()
+### var proposedOfficiallLanguages = bhaarat.getPurposedOfficialLanguages()
